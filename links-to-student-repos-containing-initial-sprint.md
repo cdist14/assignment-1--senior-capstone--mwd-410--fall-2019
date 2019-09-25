@@ -7,7 +7,7 @@
 `[Repo Link](URL HERE)`
 
 ## Chaz Disten
-`[Repo Link](URL HERE)`
+`[Repo Link](https://app.zenhub.com/workspaces/cookbook-5d8a7c853ac3440001d1a512/board?repos=210691903)`
 
 ## Julia Drachenberg
 `[Repo Link](URL HERE)`
