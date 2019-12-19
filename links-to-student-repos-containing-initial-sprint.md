@@ -7,7 +7,7 @@
 `[Repo Link](URL HERE)`
 
 ## Chaz Disten
-`[Repo Link](https://github.com/cdist14/cook-book#workspaces/cookbook-5d8a7c853ac3440001d1a512/board?repos=210691903)`
+[Repo Link](https://github.com/cdist14/cook-book#workspaces/cookbook-5d8a7c853ac3440001d1a512/board?repos=210691903)
 
 ## Julia Drachenberg
 `[Repo Link](URL HERE)`
